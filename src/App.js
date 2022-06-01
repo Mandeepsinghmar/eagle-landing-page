@@ -5,6 +5,7 @@ import CustomerJourney from './components/CustomerJourney';
 import Demo from './components/Demo';
 import Footer from './components/Footer';
 import Navbar from './components/Navbar';
+import News from './components/News';
 import Partners from './components/Partners';
 import Solutions from './components/Solutions';
 import Spotlight from './components/Spotlight';
@@ -19,6 +20,7 @@ const App = () => {
       <Solutions />
       <Spotlight />
       <CustomerJourney />
+      <News />
       <Demo />
       <div className='footer bg-footer'>
         <Footer />

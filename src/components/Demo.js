@@ -2,7 +2,7 @@ import React from 'react';
 
 const Demo = () => {
   return (
-    <div className='flex flex-col justify-center items-center mt-40 gap-3'>
+    <div className='flex flex-col justify-center items-center mt-44 gap-3'>
       <p className='uppercase text-6xl italic text-white'>Streaming Platform</p>
 
       <p className='uppercase text-5xl text-white'>
